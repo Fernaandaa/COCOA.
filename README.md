@@ -1,6 +1,6 @@
 # Panadería y Pastelería - COCOA
 
-Un negocio con un apliactivo o una página web eleva su prestigio, a la vez que permite que los clientes aumenten su nivel de confianza en el producto o servicio que ofrece. Un sitio web ayuda a incrementar las ventas, la productividad y el valor en el mercado. Pensando en ésta necesidad, hemos creado una interfaz interactiva que contiene visualizaciones de sus productos y todo aquél servicio que ofrece y recibe los input de los pedidos del usuario y se los entrega al dueño del comercio como un pedido digital.
+Un negocio con un aplicativo o una página web eleva su prestigio, a la vez que permite que los clientes aumenten su nivel de confianza en el producto o servicio que ofrece. Un sitio web ayuda a incrementar las ventas, la productividad y el valor en el mercado. Pensando en ésta necesidad, hemos creado una interfaz interactiva que contiene visualizaciones de sus productos y todo aquél servicio que ofrece, recibe los input de los pedidos del usuario y se los entrega al dueño del comercio como un pedido digital.
 
 ## Comenzando 🚀
 
