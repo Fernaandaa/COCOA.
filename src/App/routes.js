@@ -4,6 +4,7 @@ import { Route } from "react-router-dom"
 function AppRoutes() {
     return (
         <Route exact path="/" component={Home} />
+        
     )
 };
 
