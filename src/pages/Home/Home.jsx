@@ -1,10 +1,13 @@
-import React from "react";
 import "./Home.css";
-export default function Home() {
+
+function Home() {
     return(
         <div>
-
+           <h1>home</h1>
+           <p>uyfuyf</p>
         </div>
-    )
+    );
 };
+
+export default Home;
 

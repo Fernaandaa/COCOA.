@@ -6,7 +6,7 @@ function AppRoutes() {
     return (
         <BrowserRouter>
             <Routes>
-                <Route path="/" component={Home} />
+                <Route path='/' element ={<Home />}></Route>
                 
             </Routes>
         </BrowserRouter>
