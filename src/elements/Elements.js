@@ -1,4 +1,4 @@
-import styled, { css } from 'styled-components'
+{/*import styled, { css } from 'styled-components'
 
 const Banner  = styled.div`
     background-color : "green";
@@ -16,3 +16,4 @@ const Subtitle = styled.h2`
 `;
 
 export {Subtitle}
+*/}
