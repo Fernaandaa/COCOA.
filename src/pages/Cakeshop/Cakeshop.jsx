@@ -1,5 +1,7 @@
 import React from "react";
 import "./Cakeshop.css";
+import Subtitlefx from "../../components/Subtitle/Subtitle";
+
 import Bannerfx from "../../components/Banner/Banner";
 import imgCakeshop from "../img/cakeshop/cakes/101001.jpg"
 

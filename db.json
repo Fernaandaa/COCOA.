@@ -1,0 +1,24 @@
+{
+    "productos": [
+      
+        {
+        "id": 101001,
+        "nombre": "Naked cake Naranja",
+        "descripcion": "Torta ",
+        "foto": "101001.jpg",
+        "precio": 50.000,
+        "unidades": 100
+        }
+        ,
+        {
+            "id": 101002,
+            "nombre": "Naked cake Naranja",
+            "descripcion": "Torta ",
+            "foto": "101002.jpg",
+            "precio": 50.000,
+            "unidades": 100
+        }
+  
+      
+    ]
+  }
