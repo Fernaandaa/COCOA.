@@ -1,19 +1,21 @@
-{/*import styled, { css } from 'styled-components'
+import Styled, { css } from 'styled-components'
 
-const Banner  = styled.div`
-    background-color : "green";
-
+const Banner  = Styled.div`
+    background-image: url(${props => props.background});
+    background-repeat : no-repeat;
+    background-size: contain;
+    width : 100%;
+    display: flex;
 `;
   
-export {Banner}
-import styled from 'styled-components';
 
-const Subtitle = styled.h2`
+
+
+const Subtitle = Styled.h2`
 
     color : green;
 
 
 `;
 
-export {Subtitle}
-*/}
+export {Banner,Subtitle}
