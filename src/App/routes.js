@@ -30,12 +30,12 @@ function AppRoutes() {
 
                 
 
-                {/*<Route path='/bakery' element ={<Bakery />}>
-                    <Route path='/comprenhensive' element={<Comprehensive />}></Route>
-                    <Route path='/handcraft' element={<Handcraft/>}></Route>
-                    <Route path='/puffpastries' element={<Puffpastries />}></Route>
-                    <Route path='/gallery' element={<GalleryB />}></Route>
-    </Route>*/}
+                <Route path='bakery/' element ={<Bakery />}>
+                    <Route path='comprenhensive' element={<Comprehensive />}></Route>
+                    <Route path='handcraft' element={<Handcraft/>}></Route>
+                    <Route path='puffpastries' element={<Puffpastries />}></Route>
+                    <Route path='gallery' element={<GalleryB />}></Route>
+                </Route>
 
             </Routes>
         </BrowserRouter>  
