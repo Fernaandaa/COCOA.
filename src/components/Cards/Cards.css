@@ -75,3 +75,17 @@
         transform: scale(1.2);
     }
 }
+
+/* ::::::::::::: MEDIA QUERYS ::::::::::::*/
+
+@media screen and ( min-width: 670px ) {
+    .product{
+        width: 40%;
+    }   
+}
+
+@media screen and ( min-width: 1024px ) {
+    .product{
+        width: 25%;
+    }
+}
