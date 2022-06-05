@@ -12,11 +12,11 @@
         ,
         {
             "id": 101002,
-            "name": "Naked cake Naranja",
+            "name": "Torta vainilla",
             "description": "Torta ",
-            "photo": "101001.jpg",
+            "photo": "101002.png",
             "price": 50.000,
-            "quantity": 100
+            "quantity": 50
         }
   
       

@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color:   #1C0802;
 }
 
 code {
@@ -24,6 +25,3 @@ code {
   --vinotinto-color : #761520;
 }
 
-body{
-  background-color:   #1C0802;
-}

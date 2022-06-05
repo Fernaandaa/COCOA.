@@ -6,7 +6,7 @@ import Cards from "../../components/Cards/Cards";
 function Cakeshop() {
     return(
       <div>
-        <Cards />
+        <Cards ></Cards>
       </div>
     );
 };
