@@ -1,5 +1,5 @@
 {
-    "products": [
+    "cakes": [
       
         {
             "id": 101001,
@@ -19,6 +19,157 @@
             "quantity": 50
         }
   
+      
+    ]
+    ,
+
+    "desserts": [
+      
+        {
+            "id": 102001,
+            "name": "Naked cake Naranja",
+            "description": "Torta ",
+            "photo": "102001.svg",
+            "price": 50.000,
+            "quantity": 100
+        }
+        ,
+        {
+            "id": 102002,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "102002.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,
+        {
+            "id": 102003,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "102003.webp",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102004,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "102004.webp",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102005,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "102005.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102006,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "102006.webp",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102007,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "102007.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102008,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "102008.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102008,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "102009.webp",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102008,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "102010.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102008,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "102011.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102008,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "102012.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102008,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "102013.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102008,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "102014.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102008,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "102015.webp",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102008,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "102016.webp",
+            "price": 50.000,
+            "quantity": 50
+        }
+       
+       
       
     ]
   }
