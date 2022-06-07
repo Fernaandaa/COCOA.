@@ -56,7 +56,7 @@
             "id": 102004,
             "name": "Tartaletas de frutas",
             "description": "Pastelillo con base de hojaldre relleno de frutas y crema pastelera   ",
-            "photo": "102004.webp",
+            "photo": "102004.jpg",
             "price": 15.000,
             "quantity": 50
         }
@@ -65,7 +65,7 @@
             "id": 102005,
             "name": "Créme brûlée",
             "description": "Especialidad de la repostería francesa crema aromatizada con vainilla y canela, en la superficie contiene una fina capa de azucar caramelizada crocante ",
-            "photo": "11.jpg",
+            "photo": "102005.jpg",
             "price": 18.000,
             "quantity": 50
         }
@@ -74,7 +74,7 @@
             "id": 102006,
             "name": "Pie de Fresas",
             "description": "Torta de hojaldre rellena de ganache de frutos rojos y frutillas frescas ",
-            "photo": "102006.webp",
+            "photo": "102006.jpg",
             "price": 60.000,
             "quantity": 50
         }
@@ -101,7 +101,7 @@
             "id": 102008,
             "name": "Torta vainilla",
             "description": "Torta ",
-            "photo": "102009.webp",
+            "photo": "102009.jpg",
             "price": 50.000,
             "quantity": 50
         }
@@ -155,7 +155,7 @@
             "id": 102008,
             "name": "Torta vainilla",
             "description": "Torta ",
-            "photo": "102015.webp",
+            "photo": "102015.jpg",
             "price": 50.000,
             "quantity": 50
         }
@@ -165,6 +165,24 @@
             "name": "Torta vainilla",
             "description": "Torta ",
             "photo": "102016.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102008,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "102017.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102008,
+            "name": "Torta de Mandarina",
+            "description": "Torta ",
+            "photo": "102018.jpg",
             "price": 50.000,
             "quantity": 50
         }
