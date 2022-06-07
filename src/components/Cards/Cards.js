@@ -6,7 +6,7 @@ import { useState, useEffect } from 'react'
 function Cards() {
 
     /*1. Definir url del api a la que me voy a conectar*/
-    const url = "http://localhost:4000/products";
+    const url = "http://localhost:4000/cakes";
 
     /*2. Generar la fx asincrona para conctar a la API */
     const getData = async () => {
