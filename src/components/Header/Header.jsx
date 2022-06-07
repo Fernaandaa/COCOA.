@@ -1,15 +1,25 @@
 import React from "react";
 import "./Header.css";
-// import logo from '../../img'
-import { FaBars } from 'react-icons/fa';
-import { FaShoppingCart } from 'react-icons/fa';
+import Logo from '../../img/Logo- COCOA.png'
+import { FaBars , FaShoppingCart } from 'react-icons/fa';
+
 
 export default function Header() {
     return (
-        <div>
-                {/* <a href="#" className="logo"></a> */}
+        <div className="container-nav">
+            <div className="container-logo">
+                <a href="#" className="logo"><img  className="AA" src={Logo} /></a> 
+    </div>
+       {/*} <a href="#" className="logo"></a> 
+        <div className="container-logo">
+                <a href="#" className="logo"><img src={Logo} /></a> 
+</div>*/}
+            
             <nav className="navbar">
-               { /*<a href="#" className="logo">*/}{/*<img src={require('../../img/Logo- COCOA.png')} alt="" className="img-logo" />*/}
+            
+            
+            
+            
                 <input type="checkbox" id="toggler" />
                 <label htmlFor="toggler" className="i-nav"><FaBars /></label>
                 <div className="menu">

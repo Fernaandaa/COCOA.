@@ -1,6 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
 
+.container-nav{
+    
+    display: flex;
+    align-items: center;
+    position: relative;
+    min-height: 170px;
+    
+}
 .navbar {
+    z-index: 2;
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -8,14 +18,18 @@
     background-color: #1c0802;
     /* padding-left: 20%; */
     padding-right: 10%;
-    margin-top: 5%;
     font-family: 'EB Garamond', serif;
     font-size: 1.2rem;
+    height: 30%;
+    
 }
+
+
 
 .i-nav, .i-cart {
     color: gold;
     font-size: 1.2rem;
+    cursor: pointer;
 }
 
 /* .i-nav {
@@ -44,7 +58,7 @@ ul .list-subitem {
     padding-top: 2%;
     position: absolute;
     background-color: #1c0802;
-    width: 120%;
+    width: 100%;
     display: none;
 }
 
@@ -59,14 +73,36 @@ ul .list li:hover ul .list-subitem {
 
 }
 
+.container-logo{
+     min-width: 150px;
+     min-height: 150px;
+     height: 100%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     position: absolute;
+     top: 1%;
+     left: 3.5%; 
+}
+
 .logo {
-    /* z-index: -5; */
+    
     background-color: #d9d9d9;
     border-radius:50%;
     padding: 8%;
-    /* position: absolute;
-    top: 1%;
-    left: 2%; */
+    width: 100%;
+    height: 80%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+
+    /* position: absolute;*/
+    
+}
+
+.logo img{
+    width:100% ;
+    z-index: 10;
 }
 
 .c-logo {
@@ -85,7 +121,7 @@ ul .list li:hover ul .list-subitem {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 45px;
+    gap: 65px;
 	transition: .5s;
 }
 
@@ -126,12 +162,11 @@ label{
     margin-left: 32%;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
 
     .navbar {
     justify-content: flex-end;
     margin-top: -0.1%;
-    padding: 3%;
     }    
     
     .i-nav {
@@ -172,5 +207,24 @@ label{
 
     .img-bottom {
         display: block;
+    }
+
+    .container-nav{
+    background-color: transparent;
+    display:contents;
+    align-items: center;
+    position: relative;
+    height: 200px;
+    }
+
+    .AA{opacity: 0;}
+
+    
+}
+
+@media screen and (max-width:1024px) {
+    .list {
+        gap: 35px;
+        
     }
 }
