@@ -12,6 +12,7 @@ import Comprehensive from '../pages/Bakery/Comprehensive/Comprehensive'
 import Handcraft from '../pages/Bakery/Handcrafted/Handcafted'
 import Puffpastries from '../pages/Bakery/Puffpastries/Puffpastries'
 import GalleryB  from '../pages/Bakery/GalleryBakery/GalleryBakery'
+import Shopping from '../pages/ShoppingCart/ShoppingCart'
 
 
 function AppRoutes() {
@@ -36,6 +37,8 @@ function AppRoutes() {
                     <Route path='puffpastries' element={<Puffpastries />}></Route>
                     <Route path='gallery' element={<GalleryB />}></Route>
                 </Route>
+
+                <Route path="/shop" element={<Shopping />}></Route>
 
             </Routes>
         </BrowserRouter>  

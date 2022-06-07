@@ -1,55 +1,58 @@
 import React from "react";
 import "./Header.css";
 import Logo from '../../img/Logo- COCOA.png'
-import { FaBars , FaShoppingCart } from 'react-icons/fa';
+import { Link } from "react-router-dom";
+import { FaBars, FaShoppingCart } from 'react-icons/fa';
 
 
-export default function Header() {
+function Header() {
     return (
         <div className="container-nav">
             <div className="container-logo">
-                <a href="#" className="logo"><img  className="AA" src={Logo} /></a> 
-    </div>
-       {/*} <a href="#" className="logo"></a> 
+                <Link to='/main' className="logo"><img className="AA" src={Logo} /></Link>
+            </div>
+            {/*} <a href="#" className="logo"></a> 
         <div className="container-logo">
                 <a href="#" className="logo"><img src={Logo} /></a> 
 </div>*/}
-            
+
             <nav className="navbar">
-            
-            
-            
-            
+
+
+
+
                 <input type="checkbox" id="toggler" />
                 <label htmlFor="toggler" className="i-nav"><FaBars /></label>
                 <div className="menu">
                     <ul className="list">
                         <h1 className="t-logo">Cocoa</h1>
                         <li><img src={require('../../img/Logo- COCOA.png')} alt="" className="img-bottom" /></li>
-                        <li><a href="#">Inicio</a></li>
-                        <li><a href="#">Acerca de</a></li>
+                        <li><Link to='/'>Inicio</Link></li>
+                        <li><Link to='/main'>Acerca de</Link></li>
                         <li>
-                            <a href="#">Panadería</a>
+                            <Link to='bakery/'>Panadería</Link>
                             <ul className="list-subitem">
-                                <li><a href="#" className="subitems">Galería</a></li>
-                                <li><a href="#" className="subitems">Integral</a></li>
-                                <li><a href="#" className="subitems">Artesanal</a></li>
-                                <li><a href="#" className="subitems">Hojaldres</a></li>
+                                <li><Link to='gallery' className="subitems">Galería </Link></li>
+                                <li><Link to='comprenhensive' className="subitems">Integral</Link></li>
+                                <li><Link to='handcraft' className="subitems">Artesanal</Link></li>
+                                <li><Link to='puffpastries' className="subitems">Hojaldres</Link></li>
                             </ul>
                         </li>
                         <li>
-                            <a href="#">Pastelería</a>
+                            <Link to='cakeshop/'>Pastelería</Link>
                             <ul  className="list-subitem">
-                                <li><a href="#" className="subitems">Galería</a></li>
-                                <li><a href="#" className="subitems">Galletas</a></li>
-                                <li><a href="#" className="subitems">Pasteles</a></li>
-                                <li><a href="#" className="subitems">Postres</a></li>
+                                <li><Link to='gallery' className="subitems">Galería </Link></li>
+                                <li><Link to='biscuits' className="subitems">Galletas</Link></li>
+                                <li><Link to='cakes' className="subitems">Pasteles</Link></li>
+                                <li><Link to='desserts' className="subitems">Postres</Link></li>
                             </ul>
-                        </li>
-                        <li className="i-cart"><a href="#"><FaShoppingCart /></a></li>
+</li>
+                        <li className="i-cart"><Link to='/shop'><FaShoppingCart /></Link></li>
                     </ul>
                 </div>
             </nav>
         </div>
     )
 };
+
+export default Header;
