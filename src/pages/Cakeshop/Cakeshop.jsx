@@ -1,12 +1,10 @@
 import { Outlet } from "react-router-dom";
 
-
-
-function Cakeshop(){
-    return(
-        <>
-        <Outlet></Outlet></>
-
+function Cakeshop() {
+    return (
+        <div >    
+        <Outlet></Outlet>
+        </div>
     );
 }
 
