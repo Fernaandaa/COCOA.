@@ -13,10 +13,10 @@ function Main(){
         <div>
         <Header/>
         <Bannerfx background = {imgBanner} />
+        <Subtitle  text = "BIENVENIDO"/>
+        <Expanding />
         <Subtitle  text = "NOSOTROS"/>
         <About />
-        <Expanding />
-        <Subtitle  text = "CONTÁCTANOS"/>
         <Footer />
         </div>
     );
