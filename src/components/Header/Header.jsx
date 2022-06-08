@@ -8,8 +8,8 @@ import { FaBars, FaShoppingCart } from 'react-icons/fa';
 function Header() {
     return (
         <div className="container-nav">
-            <div className="container-logo">
-                <Link to='/main' className="logo"><img className="AA" src={Logo} /></Link>
+            <div className="container-logo-nav">
+               <Link to='/main' className="logo"><img className="AA" src={Logo} /></Link>
             </div>
             {/*} <a href="#" className="logo"></a> 
         <div className="container-logo">
@@ -17,9 +17,6 @@ function Header() {
 </div>*/}
 
             <nav className="navbar">
-
-
-
 
                 <input type="checkbox" id="toggler" />
                 <label htmlFor="toggler" className="i-nav"><FaBars /></label>
