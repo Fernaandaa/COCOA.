@@ -11,7 +11,7 @@ function Biscuits(){
         <div className='main'>
         <Bannerfx background={Biscuitsbanner}/>
         <Subtitle text="GALLETAS"/>
-        <Cards />
+        <Cards url='http://localhost:4000/biscuits' />
         <Footer />
         </div>
     );
