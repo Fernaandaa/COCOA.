@@ -23,19 +23,19 @@ function AppRoutes() {
                 <Route path='main/' element ={<Main/>}></Route>
                 
                 <Route path='cakeshop/' element ={<Cakeshop />}>
-                    <Route  path='biscuits' element={<Biscuits />}></Route>
-                    <Route  path='cakes' element={<Cakes />}></Route>
-                    <Route  path='desserts' element={<Desserts />}></Route>
-                    <Route  path='gallery' element={<GalleryC />}></Route>
+                    <Route  path='cakeshop/biscuits' element={<Biscuits />}></Route>
+                    <Route  path='cakeshop/cakes' element={<Cakes />}></Route>
+                    <Route  path='cakeshop/desserts' element={<Desserts />}></Route>
+                    <Route  path='cakeshop/gallery' element={<GalleryC />}></Route>
                </Route>
 
                 
 
                 <Route path='bakery/' element ={<Bakery />}>
-                    <Route path='comprenhensive' element={<Comprehensive />}></Route>
-                    <Route path='handcraft' element={<Handcraft/>}></Route>
-                    <Route path='puffpastries' element={<Puffpastries />}></Route>
-                    <Route path='gallery' element={<GalleryB />}></Route>
+                    <Route path='bakery/comprenhensive' element={<Comprehensive />}></Route>
+                    <Route path='bakery/handcraft' element={<Handcraft/>}></Route>
+                    <Route path='bakery/puffpastries' element={<Puffpastries />}></Route>
+                    <Route path='bakery/gallery' element={<GalleryB />}></Route>
                 </Route>
 
                 <Route path="/shop" element={<Shopping />}></Route>
