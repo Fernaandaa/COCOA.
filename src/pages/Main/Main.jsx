@@ -4,7 +4,7 @@ import Bannerfx from '../../components/Banner/Banner'
 import Subtitle  from '../../components/Subtitle/Subtitle';
 import Footer from '../../components/Footer/Footer'
 import About from '../../components/About/About';
-import imgBanner from '../../img/cakeshop/cakes/101001.jpg'
+import Banner from '../../img/home/BANNER-MAIN.jpg'
 import Expanding from '../../components/Expanding/Expanding'
 
 
@@ -12,7 +12,7 @@ function Main(){
     return(
         <div>
         <Header/>
-        <Bannerfx background = {imgBanner} />
+        <Bannerfx background = {Banner} />
         <Subtitle  text = "BIENVENIDO"/>
         <Expanding />
         <Subtitle  text = "NOSOTROS"/>
