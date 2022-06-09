@@ -16,11 +16,13 @@
     align-items: center;
     justify-content: flex-end;
     background-color: #1c0802;
+    background-size: cover;
     background-image: url(../../img/background\ nav.png);
-    /* padding-left: 20%; */
+    background-repeat: no-repeat;
+    /*padding-left: 20%; */
     padding-right: 10%;
     font-family: 'EB Garamond', serif;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     height: 30%;
     
 }
