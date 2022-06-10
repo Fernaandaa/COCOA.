@@ -30,7 +30,7 @@ function Header() {
                         <li>
                             <Link to='bakery/'>Panadería</Link>
                             <ul className="list-subitem">
-                                <li><Link to='bakery/gallery'>Galería </Link></li>
+                               {/* <li><Link to='bakery/gallery'>Galería </Link></li>*/}
                                 <li><Link to='bakery/comprenhensive'>Integral</Link></li>
                                 <li><Link to='bakery/handcraft'>Artesanal</Link></li>
                                 <li><Link to='bakery/puffpastries'>Hojaldres</Link></li>
@@ -39,7 +39,7 @@ function Header() {
                         <li>
                             <Link to='cakeshop/'>Pastelería</Link>
                             <ul className="list-subitem">
-                                <li><Link to='/gallery'>Galería </Link></li>
+                                {/*<li><Link to='/gallery'>Galería </Link></li>*/}
                                 <li><Link to='/biscuits'>Galletas</Link></li>
                                 <li><Link to='/cakes'>Pasteles</Link></li>
                                 <li><Link to='/desserts'>Postres</Link></li>

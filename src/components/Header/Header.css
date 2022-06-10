@@ -58,11 +58,13 @@ ul .list-subitem {
 
 ul .list-subitem {
     list-style: none;
-    padding-top: 2%;
+    line-height: 2;
+    padding: 2%;
     position: absolute;
     background-color: #1c0802;
-    width: 100%;
+    width: max-content;
     display: none;
+    text-align: center;
 }
 
 ul .list li:hover ul .list-subitem {

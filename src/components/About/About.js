@@ -8,9 +8,10 @@ function About() {
 
         <main id="container_main_home">
         <p class="paragraph-home">
-            Empresa familiar dedicada a la elaboración de alimentos con altos estándares de calidad y sabores auténticos ,
-            Nos dedicamos a la fabricación de productos de panadería con sabores auténticos. tenemos varias lineas
-            de producción entre las que se destacan galleteria, reposteria y bizcocheria.
+            Somos empresa de tradición  familiar dedicada a la elaboración y comercialización de alimentos con altos estándares de calidad y sabores auténticos ,
+            fabricamos productos de panadería con sabores auténticos. tenemos varias lineas
+            de producción entre las que se destacan galleteria, reposteria y bizcocheria. Prestamos un excelente servicio a través 
+            de un equipo humano capacitado y comprometido con el cual hemos logrado la preferencia de nuestros clientes.
         </p>
         <Subtitle text="Contacto" />
         
