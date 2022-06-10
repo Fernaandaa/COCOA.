@@ -428,5 +428,240 @@
             "quantity": 50
         }
        
+    ], 
+    
+    "handcraft": [
+      
+        {
+            "id": 103001,
+            "name": "Copa frutos del bosque",
+            "description": "Copa de dulce de frutos del bosque con yogurth griego sabor a vainilla ",
+            "photo": "bakery/Handcraft/201001.jpg",
+            "price": 12.000 ,
+            "quantity": 100
+        }
+        ,
+        {
+            "id": 102002,
+            "name": "Donuts cubiertas de chocolate",
+            "description": "clásicas, suaves y esponjositas, donas recubiertas de chocolate y chispas de colores ",
+            "photo": "bakery/Handcraft/201002.jpg",
+            "price": 2.500,
+            "quantity": 50
+        }
+        ,
+        {
+            "id": 102003,
+            "name": "Pie de Manzana",
+            "description": "clasico postre al mejor estilo italiano , bizcocho bañado en cafe con queso mascarpone y cacao espolvoreado ",
+            "photo": "bakery/Handcraft/201003.jpg",
+            "price": 8.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102004,
+            "name": "Tartaletas de frutas",
+            "description": "Pastelillo con base de hojaldre relleno de frutas y crema pastelera   ",
+            "photo": "bakery/Handcraft/201004.jpg",
+            "price": 15.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102005,
+            "name": "Créme brûlée",
+            "description": "Especialidad de la repostería francesa crema aromatizada con vainilla y canela, en la superficie contiene una fina capa de azucar caramelizada crocante ",
+            "photo": "bakery/Handcraft/201005.jpg",
+            "price": 18.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102006,
+            "name": "Pie de Fresas",
+            "description": "Torta de hojaldre rellena de ganache de frutos rojos y frutillas frescas ",
+            "photo": "bakery/Handcraft/201006.jpg",
+            "price": 60.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102007,
+            "name": "Torta de zanahoria",
+            "description": "Opcion saludable para personas que no  ",
+            "photo": "bakery/Handcraft/201007.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102008,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "bakery/Handcraft/201008.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }    
+    ], 
+    
+    "comprehensive": [
+      
+        {
+            "id": 103001,
+            "name": "Copa frutos del bosque",
+            "description": "Copa de dulce de frutos del bosque con yogurth griego sabor a vainilla ",
+            "photo": "bakery/Comprehensive/203001.jpg",
+            "price": 12.000 ,
+            "quantity": 100
+        }
+        ,
+        {
+            "id": 102002,
+            "name": "Donuts cubiertas de chocolate",
+            "description": "clásicas, suaves y esponjositas, donas recubiertas de chocolate y chispas de colores ",
+            "photo": "bakery/Comprehensive/203002.jpg",
+            "price": 2.500,
+            "quantity": 50
+        }
+        ,
+        {
+            "id": 102003,
+            "name": "Pie de Manzana",
+            "description": "clasico postre al mejor estilo italiano , bizcocho bañado en cafe con queso mascarpone y cacao espolvoreado ",
+            "photo": "bakery/Comprehensive/203003.jpg",
+            "price": 8.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102004,
+            "name": "Tartaletas de frutas",
+            "description": "Pastelillo con base de hojaldre relleno de frutas y crema pastelera   ",
+            "photo": "bakery/Comprehensive/203004.jpg",
+            "price": 15.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102005,
+            "name": "Créme brûlée",
+            "description": "Especialidad de la repostería francesa crema aromatizada con vainilla y canela, en la superficie contiene una fina capa de azucar caramelizada crocante ",
+            "photo": "bakery/Comprehensive/203005.jpg",
+            "price": 18.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102006,
+            "name": "Pie de Fresas",
+            "description": "Torta de hojaldre rellena de ganache de frutos rojos y frutillas frescas ",
+            "photo": "bakery/Comprehensive/203006.jpg",
+            "price": 60.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102007,
+            "name": "Torta de zanahoria",
+            "description": "Opcion saludable para personas que no  ",
+            "photo": "bakery/Comprehensive/203007.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102008,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "bakery/Comprehensive/203008.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102008,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "bakery/Comprehensive/203009.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+    ], 
+    
+    "puffpastries": [
+      
+        {
+            "id": 103001,
+            "name": "Copa frutos del bosque",
+            "description": "Copa de dulce de frutos del bosque con yogurth griego sabor a vainilla ",
+            "photo": "bakery/Puffpastries/202001.jpg",
+            "price": 12.000 ,
+            "quantity": 100
+        }
+        ,
+        {
+            "id": 102002,
+            "name": "Donuts cubiertas de chocolate",
+            "description": "clásicas, suaves y esponjositas, donas recubiertas de chocolate y chispas de colores ",
+            "photo": "bakery/Puffpastries/202002.jpg",
+            "price": 2.500,
+            "quantity": 50
+        }
+        ,
+        {
+            "id": 102003,
+            "name": "Pie de Manzana",
+            "description": "clasico postre al mejor estilo italiano , bizcocho bañado en cafe con queso mascarpone y cacao espolvoreado ",
+            "photo": "bakery/Puffpastries/202003.jpg",
+            "price": 8.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102004,
+            "name": "Tartaletas de frutas",
+            "description": "Pastelillo con base de hojaldre relleno de frutas y crema pastelera   ",
+            "photo": "bakery/Puffpastries/202004.jpg",
+            "price": 15.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102005,
+            "name": "Créme brûlée",
+            "description": "Especialidad de la repostería francesa crema aromatizada con vainilla y canela, en la superficie contiene una fina capa de azucar caramelizada crocante ",
+            "photo": "bakery/Puffpastries/202005.jpg",
+            "price": 18.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102006,
+            "name": "Pie de Fresas",
+            "description": "Torta de hojaldre rellena de ganache de frutos rojos y frutillas frescas ",
+            "photo": "bakery/Puffpastries/202006.jpg",
+            "price": 60.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102007,
+            "name": "Torta de zanahoria",
+            "description": "Opcion saludable para personas que no  ",
+            "photo": "bakery/Puffpastries/202007.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+        ,  
+        {
+            "id": 102008,
+            "name": "Torta vainilla",
+            "description": "Torta ",
+            "photo": "bakery/Puffpastries/202008.jpg",
+            "price": 50.000,
+            "quantity": 50
+        }
+       
     ]
   }
