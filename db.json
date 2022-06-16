@@ -433,7 +433,7 @@
     "handcraft": [
       
         {
-            "id": 103001,
+            "id": 201001,
             "name": "Copa frutos del bosque",
             "description": "Copa de dulce de frutos del bosque con yogurth griego sabor a vainilla ",
             "photo": "bakery/Handcraft/201001.jpg",
@@ -442,7 +442,7 @@
         }
         ,
         {
-            "id": 102002,
+            "id": 201002,
             "name": "Donuts cubiertas de chocolate",
             "description": "clásicas, suaves y esponjositas, donas recubiertas de chocolate y chispas de colores ",
             "photo": "bakery/Handcraft/201002.jpg",
@@ -451,7 +451,7 @@
         }
         ,
         {
-            "id": 102003,
+            "id": 201003,
             "name": "Pie de Manzana",
             "description": "clasico postre al mejor estilo italiano , bizcocho bañado en cafe con queso mascarpone y cacao espolvoreado ",
             "photo": "bakery/Handcraft/201003.jpg",
@@ -460,7 +460,7 @@
         }
         ,  
         {
-            "id": 102004,
+            "id": 201004,
             "name": "Tartaletas de frutas",
             "description": "Pastelillo con base de hojaldre relleno de frutas y crema pastelera   ",
             "photo": "bakery/Handcraft/201004.jpg",
@@ -469,7 +469,7 @@
         }
         ,  
         {
-            "id": 102005,
+            "id": 201005,
             "name": "Créme brûlée",
             "description": "Especialidad de la repostería francesa crema aromatizada con vainilla y canela, en la superficie contiene una fina capa de azucar caramelizada crocante ",
             "photo": "bakery/Handcraft/201005.jpg",
@@ -478,7 +478,7 @@
         }
         ,  
         {
-            "id": 102006,
+            "id": 201006,
             "name": "Pie de Fresas",
             "description": "Torta de hojaldre rellena de ganache de frutos rojos y frutillas frescas ",
             "photo": "bakery/Handcraft/201006.jpg",
@@ -487,7 +487,7 @@
         }
         ,  
         {
-            "id": 102007,
+            "id": 201007,
             "name": "Torta de zanahoria",
             "description": "Opcion saludable para personas que no  ",
             "photo": "bakery/Handcraft/201007.jpg",
@@ -496,7 +496,7 @@
         }
         ,  
         {
-            "id": 102008,
+            "id": 201008,
             "name": "Torta vainilla",
             "description": "Torta ",
             "photo": "bakery/Handcraft/201008.jpg",
@@ -508,7 +508,7 @@
     "comprehensive": [
       
         {
-            "id": 103001,
+            "id": 203001,
             "name": "Copa frutos del bosque",
             "description": "Copa de dulce de frutos del bosque con yogurth griego sabor a vainilla ",
             "photo": "bakery/Comprehensive/203001.jpg",
@@ -517,7 +517,7 @@
         }
         ,
         {
-            "id": 102002,
+            "id": 203002,
             "name": "Donuts cubiertas de chocolate",
             "description": "clásicas, suaves y esponjositas, donas recubiertas de chocolate y chispas de colores ",
             "photo": "bakery/Comprehensive/203002.jpg",
@@ -526,7 +526,7 @@
         }
         ,
         {
-            "id": 102003,
+            "id": 203003,
             "name": "Pie de Manzana",
             "description": "clasico postre al mejor estilo italiano , bizcocho bañado en cafe con queso mascarpone y cacao espolvoreado ",
             "photo": "bakery/Comprehensive/203003.jpg",
@@ -535,7 +535,7 @@
         }
         ,  
         {
-            "id": 102004,
+            "id": 203004,
             "name": "Tartaletas de frutas",
             "description": "Pastelillo con base de hojaldre relleno de frutas y crema pastelera   ",
             "photo": "bakery/Comprehensive/203004.jpg",
@@ -544,7 +544,7 @@
         }
         ,  
         {
-            "id": 102005,
+            "id": 203005,
             "name": "Créme brûlée",
             "description": "Especialidad de la repostería francesa crema aromatizada con vainilla y canela, en la superficie contiene una fina capa de azucar caramelizada crocante ",
             "photo": "bakery/Comprehensive/203005.jpg",
@@ -553,7 +553,7 @@
         }
         ,  
         {
-            "id": 102006,
+            "id": 203006,
             "name": "Pie de Fresas",
             "description": "Torta de hojaldre rellena de ganache de frutos rojos y frutillas frescas ",
             "photo": "bakery/Comprehensive/203006.jpg",
@@ -562,7 +562,7 @@
         }
         ,  
         {
-            "id": 102007,
+            "id": 203007,
             "name": "Torta de zanahoria",
             "description": "Opcion saludable para personas que no  ",
             "photo": "bakery/Comprehensive/203007.jpg",
@@ -571,7 +571,7 @@
         }
         ,  
         {
-            "id": 102008,
+            "id": 203008,
             "name": "Torta vainilla",
             "description": "Torta ",
             "photo": "bakery/Comprehensive/203008.jpg",
@@ -580,19 +580,18 @@
         }
         ,  
         {
-            "id": 102008,
+            "id": 203008,
             "name": "Torta vainilla",
             "description": "Torta ",
             "photo": "bakery/Comprehensive/203009.jpg",
             "price": 50.000,
             "quantity": 50
         }
-    ], 
+    ],
     
     "puffpastries": [
-      
         {
-            "id": 103001,
+            "id": 202001,
             "name": "Copa frutos del bosque",
             "description": "Copa de dulce de frutos del bosque con yogurth griego sabor a vainilla ",
             "photo": "bakery/Puffpastries/202001.jpg",
@@ -601,7 +600,7 @@
         }
         ,
         {
-            "id": 102002,
+            "id": 202002,
             "name": "Donuts cubiertas de chocolate",
             "description": "clásicas, suaves y esponjositas, donas recubiertas de chocolate y chispas de colores ",
             "photo": "bakery/Puffpastries/202002.jpg",
@@ -610,7 +609,7 @@
         }
         ,
         {
-            "id": 102003,
+            "id": 202003,
             "name": "Pie de Manzana",
             "description": "clasico postre al mejor estilo italiano , bizcocho bañado en cafe con queso mascarpone y cacao espolvoreado ",
             "photo": "bakery/Puffpastries/202003.jpg",
@@ -619,7 +618,7 @@
         }
         ,  
         {
-            "id": 102004,
+            "id": 202004,
             "name": "Tartaletas de frutas",
             "description": "Pastelillo con base de hojaldre relleno de frutas y crema pastelera   ",
             "photo": "bakery/Puffpastries/202004.jpg",
@@ -628,7 +627,7 @@
         }
         ,  
         {
-            "id": 102005,
+            "id": 202005,
             "name": "Créme brûlée",
             "description": "Especialidad de la repostería francesa crema aromatizada con vainilla y canela, en la superficie contiene una fina capa de azucar caramelizada crocante ",
             "photo": "bakery/Puffpastries/202005.jpg",
@@ -637,7 +636,7 @@
         }
         ,  
         {
-            "id": 102006,
+            "id": 202006,
             "name": "Pie de Fresas",
             "description": "Torta de hojaldre rellena de ganache de frutos rojos y frutillas frescas ",
             "photo": "bakery/Puffpastries/202006.jpg",
@@ -646,22 +645,12 @@
         }
         ,  
         {
-            "id": 102007,
+            "id": 202007,
             "name": "Torta de zanahoria",
             "description": "Opcion saludable para personas que no  ",
             "photo": "bakery/Puffpastries/202007.jpg",
             "price": 50.000,
             "quantity": 50
         }
-        ,  
-        {
-            "id": 102008,
-            "name": "Torta vainilla",
-            "description": "Torta ",
-            "photo": "bakery/Puffpastries/202008.jpg",
-            "price": 50.000,
-            "quantity": 50
-        }
-       
     ]
   }
