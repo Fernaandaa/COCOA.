@@ -160,7 +160,7 @@
   position: absolute;
   top: 50%;
   transform:
-    translateY(-50%) translateX(calc(100% + 95px));
+    translateY(-50%) translateX(calc(100% + 100px));
   width: 45px;
   height: 45px;
   background-color: var(--chocolate-color);
@@ -182,7 +182,7 @@
 }
 
 .cta .i-button {
-  margin-left: 15px;
+  margin-left: 20px;
   transition:
     transform .25s .4s cubic-bezier(0, 0, .5, 2);
   color: var(--golden-color);
