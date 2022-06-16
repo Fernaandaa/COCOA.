@@ -20,14 +20,14 @@ function Expanding() {
     return (
         <div>
             <div class="container">
-                <div className='panel panel-active' >
-                    <h3>Pasteles y tortas</h3>
-                </div>
                 <div className="panel panel-one">
                     <h3>Galletas</h3>
                 </div>
                 <div className="panel panel-two">
                     <h3>Cupcakes</h3>
+                </div>
+                <div className='panel panel-active' >
+                    <h3>Pasteles y tortas</h3>
                 </div>
                 <div className="panel panel-three">
                     <h3>Hojaldres</h3>
