@@ -1,6 +1,6 @@
 import './Expanding.css';
 //import {Banner}from'../../elements/Elements'
-import imgp from '../../img/cakeshop/biscuits/COOKIES-BANNER.png'
+// import imgp from '../../img/cakeshop/biscuits/COOKIES-BANNER.png'
 
 function Expanding() {
     const panels = document.querySelectorAll('.panel')
