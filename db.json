@@ -442,8 +442,13 @@
         }
         ,
         {
+<<<<<<< HEAD
+            "id": 102002,
+            "name": "galletas de canela",
+=======
             "id": 201002,
             "name": "Donuts cubiertas de chocolate",
+>>>>>>> 1d67e25d85817b8d9e8e695f68ccb1e33fdb05cd
             "description": "clásicas, suaves y esponjositas, donas recubiertas de chocolate y chispas de colores ",
             "photo": "bakery/Handcraft/201002.jpg",
             "price": 2.500,
@@ -451,8 +456,13 @@
         }
         ,
         {
+<<<<<<< HEAD
+            "id": 102003,
+            "name": "Galletas sabor naranja",
+=======
             "id": 201003,
             "name": "Pie de Manzana",
+>>>>>>> 1d67e25d85817b8d9e8e695f68ccb1e33fdb05cd
             "description": "clasico postre al mejor estilo italiano , bizcocho bañado en cafe con queso mascarpone y cacao espolvoreado ",
             "photo": "bakery/Handcraft/201003.jpg",
             "price": 8.000,
@@ -460,8 +470,13 @@
         }
         ,  
         {
+<<<<<<< HEAD
+            "id": 102004,
+            "name": "Galletas de avena",
+=======
             "id": 201004,
             "name": "Tartaletas de frutas",
+>>>>>>> 1d67e25d85817b8d9e8e695f68ccb1e33fdb05cd
             "description": "Pastelillo con base de hojaldre relleno de frutas y crema pastelera   ",
             "photo": "bakery/Handcraft/201004.jpg",
             "price": 15.000,
@@ -469,8 +484,13 @@
         }
         ,  
         {
+<<<<<<< HEAD
+            "id": 102005,
+            "name": "Galletas con chips de chocolate",
+=======
             "id": 201005,
             "name": "Créme brûlée",
+>>>>>>> 1d67e25d85817b8d9e8e695f68ccb1e33fdb05cd
             "description": "Especialidad de la repostería francesa crema aromatizada con vainilla y canela, en la superficie contiene una fina capa de azucar caramelizada crocante ",
             "photo": "bakery/Handcraft/201005.jpg",
             "price": 18.000,
@@ -478,8 +498,13 @@
         }
         ,  
         {
+<<<<<<< HEAD
+            "id": 102006,
+            "name": "Galletas de cocoa",
+=======
             "id": 201006,
             "name": "Pie de Fresas",
+>>>>>>> 1d67e25d85817b8d9e8e695f68ccb1e33fdb05cd
             "description": "Torta de hojaldre rellena de ganache de frutos rojos y frutillas frescas ",
             "photo": "bakery/Handcraft/201006.jpg",
             "price": 60.000,
@@ -487,8 +512,13 @@
         }
         ,  
         {
+<<<<<<< HEAD
+            "id": 102007,
+            "name": "Galleta tradicional chocolate",
+=======
             "id": 201007,
             "name": "Torta de zanahoria",
+>>>>>>> 1d67e25d85817b8d9e8e695f68ccb1e33fdb05cd
             "description": "Opcion saludable para personas que no  ",
             "photo": "bakery/Handcraft/201007.jpg",
             "price": 50.000,
@@ -496,8 +526,13 @@
         }
         ,  
         {
+<<<<<<< HEAD
+            "id": 102008,
+            "name": "Galleta base harina almendra",
+=======
             "id": 201008,
             "name": "Torta vainilla",
+>>>>>>> 1d67e25d85817b8d9e8e695f68ccb1e33fdb05cd
             "description": "Torta ",
             "photo": "bakery/Handcraft/201008.jpg",
             "price": 50.000,
