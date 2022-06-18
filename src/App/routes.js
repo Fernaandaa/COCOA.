@@ -13,7 +13,7 @@ import Handcraft from '../pages/Bakery/Handcrafted/Handcafted'
 import Puffpastries from '../pages/Bakery/Puffpastries/Puffpastries'
 import GalleryB from '../pages/Bakery/GalleryBakery/GalleryBakery'
 import Shopping from '../pages/ShoppingCart/ShoppingCart'
-import DataClient from "../pages/DataClient/DataClient";
+// import DataClient from "../pages/DataClient/DataClient";
 
 
 function AppRoutes() {
@@ -45,7 +45,7 @@ function AppRoutes() {
 
                 <Route path="/shop/:id" element={<Shopping />}></Route>
               
-                <Route path='/form' element={<DataClient/>}></Route>
+                {/* <Route path='/form' element={<DataClient/>}></Route> */}
             </Routes>
         </BrowserRouter>
     )
