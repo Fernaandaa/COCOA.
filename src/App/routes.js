@@ -21,24 +21,10 @@ function AppRoutes() {
         <BrowserRouter>
             <Routes>
                 <Route path='/' element={<Home />}></Route>
-                <Route path='main/' element={<Main />}></Route>
-
-                <Route path='cakeshop/' element={<Cakeshop />}>
-                    <Route path='biscuits' element={<Biscuits />}></Route>
-                    <Route path='cakes' element={<Cakes />}></Route>
-                    <Route path='desserts' element={<Desserts />}></Route>
-                    <Route path='gallery' element={<GalleryC />}></Route>
-                </Route>
-
-
-
-                <Route path='bakery/' element={<Bakery />}>
-                    <Route path='comprenhensive' element={<Comprehensive />}></Route>
-                    <Route path='handcraft' element={<Handcraft />}></Route>
-                    <Route path='puffpastries' element={<Puffpastries />}></Route>
-                    <Route path='gallery' element={<GalleryB />}></Route>
-                </Route>
-
+                <Route path='/main' element={<Main />}></Route>
+                
+                <Route path='/cakeshop' element={<Cakeshop />}></Route>
+                <Route path='/bakery' element={<Bakery />}></Route>
                 <Route path="/shop" element={<Shopping />}></Route>
 
                 <Route path='/biscuits' element={<Biscuits />}></Route>
