@@ -1,6 +1,6 @@
 import './Expanding.css';
 //import {Banner}from'../../elements/Elements'
-import imgp from '../../img/cakeshop/biscuits/COOKIES-BANNER.png'
+// import imgp from '../../img/cakeshop/biscuits/COOKIES-BANNER.png'
 
 function Expanding() {
     const panels = document.querySelectorAll('.panel')
@@ -20,14 +20,14 @@ function Expanding() {
     return (
         <div>
             <div class="container">
-                <div className='panel panel-active' >
-                    <h3>Pasteles y tortas</h3>
-                </div>
                 <div className="panel panel-one">
                     <h3>Galletas</h3>
                 </div>
                 <div className="panel panel-two">
                     <h3>Cupcakes</h3>
+                </div>
+                <div className='panel panel-active' >
+                    <h3>Pasteles y tortas</h3>
                 </div>
                 <div className="panel panel-three">
                     <h3>Hojaldres</h3>
