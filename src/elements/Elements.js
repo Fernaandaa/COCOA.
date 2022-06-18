@@ -4,7 +4,8 @@ const Banner  = Styled.div`
     background-image: url(${props => props.background});
     background-repeat : no-repeat;
     background-size: cover;
-    height: 100%;
+    width : 100%;
+    display: flex;
 `;
   
 
@@ -17,4 +18,4 @@ const Subtitle = Styled.h2`
 
 `;
 
-export {Banner,Subtitle}
+export {Banner}
