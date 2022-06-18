@@ -40,8 +40,10 @@ function Cards({url}) {
             <section id="products">
                 {products.map((product, id) => (
                     <article class="product" key={id}>
+                        <div className='card'>
                         <p class="product-info" >{product.name}</p>
                         <img class="product-img" src={require(`../../img/${product.photo}`)} />
+                        </div>
                         <button class="btn-view">Ver mas</button>
                     </article>
                 ))}

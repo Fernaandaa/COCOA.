@@ -6,6 +6,8 @@
     align-items: center;
     position: relative;
     min-height: 170px;
+    margin-bottom: 2%;
+    margin-top: 1%;
     
 }
 .navbar {
@@ -42,6 +44,9 @@
 .navbar a{
     text-decoration: none;
     color: inherit;
+    font-weight: 300;
+    letter-spacing: 1px;
+    font-size: 1.2rem;
 }
 
 ul .list-subitem {
