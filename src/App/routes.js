@@ -13,6 +13,7 @@ import Handcraft from '../pages/Bakery/Handcrafted/Handcafted'
 import Puffpastries from '../pages/Bakery/Puffpastries/Puffpastries'
 import GalleryB from '../pages/Bakery/GalleryBakery/GalleryBakery'
 import Shopping from '../pages/ShoppingCart/ShoppingCart'
+import DataClient from "../pages/DataClient/DataClient";
 
 
 function AppRoutes() {
@@ -38,7 +39,7 @@ function AppRoutes() {
                     <Route path='gallery' element={<GalleryB />}></Route>
                 </Route>
 
-                <Route path="main/shop" element={<Shopping />}></Route>
+                <Route path="/shop" element={<Shopping />}></Route>
 
                 <Route path='/biscuits' element={<Biscuits />}></Route>
                 <Route path='/cakes' element={<Cakes />}></Route>
@@ -50,6 +51,15 @@ function AppRoutes() {
                 <Route path='/puffpastries' element={<Puffpastries />}></Route>
                 <Route path='/gallery' element={<GalleryB />}></Route>
 
+
+               <Route path='/biscuits/:id' element={<Biscuits />}></Route>
+                <Route path='/cakes/:id' element={<Cakes />}></Route>
+                <Route path='/desserts/:id' element={<Desserts />}></Route>
+                <Route path='/gallery/:id' element={<GalleryC/>}></Route>
+
+                <Route path="/shop/:id" element={<Shopping />}></Route>
+              
+                <Route path='/form' element={<DataClient/>}></Route>
             </Routes>
         </BrowserRouter>
     )
